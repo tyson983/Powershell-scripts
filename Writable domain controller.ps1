@@ -1,0 +1,1 @@
+nltest.exe /dsgetdc: /writable /force
