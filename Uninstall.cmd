@@ -1,1 +1,0 @@
-Powershell.exe -NoProfile -ExecutionPolicy ByPass -File .\RemoveTeemTalkPOS.ps1
