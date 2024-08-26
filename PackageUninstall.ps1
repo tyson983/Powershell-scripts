@@ -1,0 +1,1 @@
+﻿Get-Package -name "Yakuza: Like a Dragon" | Uninstall-Package
